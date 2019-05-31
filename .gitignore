@@ -10,3 +10,13 @@ debian/python-matheval.substvars
 debian/python-matheval/
 src/matheval.egg-info/
 
+
+\.eggs/
+
+\.idea/
+
+\.tox/
+
+venv/
+
+matheval\.egg-info/
